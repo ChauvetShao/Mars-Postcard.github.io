@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MindAR
 
 <img src="https://hiukim.github.io/mind-ar-js-doc/assets/images/multi-targets-demo-8b5fc868f6b0847a9818e8bf0ba2c1c3.gif" height="250"><img src="https://hiukim.github.io/mind-ar-js-doc/assets/images/interactive-demo-1ab348a381cbd808f4d52c8750524d11.gif" height="250"><img src="https://hiukim.github.io/mind-ar-js-doc/assets/images/face-tryon-demo-369c4ba701f1df2099ecf05c27f0c944.gif" height="250">
@@ -222,3 +223,7 @@ The computer vision idea is borrowed from artoolkit (i.e. https://github.com/art
 
 Face Tracking is based on mediapipe face mesh model (i.e. https://google.github.io/mediapipe/solutions/face_mesh.html)
 
+=======
+# Mars-Postcard.github.io
+使用mindAR为火星制作的AR明信片
+>>>>>>> af0ce7324485c9c98148180b50e8b740773dd77e
